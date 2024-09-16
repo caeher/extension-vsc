@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "extension.gapline",
-        "title": "Hello World"
+        "title": "Gap Line"
       }
     ]
   },
